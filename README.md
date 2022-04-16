@@ -13,6 +13,9 @@
 - MySQL
 - Swing
 
+# 진행 기간
+2021-05-14 ~ 2021-06-14
+
 # 팀 구성
 ![image](https://user-images.githubusercontent.com/33615669/162572493-7d12b1c1-ffcc-4372-9677-d26322cff0c6.png)
 
